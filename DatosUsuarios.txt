@@ -1,0 +1,8 @@
+13436078k | christian omar soriano sandoval | M | ingeniero en gestion logistica | doctorado supply chain | Docente
+170045157 | nicole elizabeth castillo contreras | F | ingeniera en prevencion de riesgos | doctora en ergonomia | Docente
+123456789 | juan eduardo perez pereira | M | ingeniero en construccion | magister en suelo | Docente
+134679461 | eduardo marcelo contreras saavedra | M | ingeniero civil | magister en economia  | Docente
+194563578 | juan enrique amaya veliz | M | ingenieria civil informatica | Estudiante
+203658746 | gabriela monica godoy abarzua | F | odontologia | Estudiante
+189657487 | margarita mercedes sandoval barrera | F | abogada | doctora en ciencias | Docente
+193158757 | Christian esteban soriano contreras | M | Contador auditor | Estudiante
